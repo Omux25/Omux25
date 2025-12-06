@@ -16,7 +16,7 @@ I'm a 3rd-year Computer Science student at **EMSI Orangers** (Casablanca) with a
   - Obsessed with terminal customization (Starship, Nerd Fonts, and Bash scripting).
 
 - ⚡ **Fun fact:**
-  - When I'm not coding or tweaking my `.bashrc`, I'm probably grinding in **Albion Online** or playing **Inazuma Eleven**.
+  - When I'm not coding or tweaking my `.bashrc`, I'm probably grinding in **Albion Online** or playing **Rocket League**.
 
 ---
 
