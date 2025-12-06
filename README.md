@@ -1,15 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Omux! 👋
 
 I'm a 3rd-year Computer Science student at **EMSI Orangers** (Casablanca) with a passion for backend development and Linux customization. I love building tools that automate tasks and solving logic puzzles in code.
 
 - 🔭 **I’m currently working on:**
-  - A **Sentiment Analysis AI** using **Python & Django** that scrapes social media data (YouTube/Web) to analyze public opinion.
-  - A **University Club Registration System** built with **PHP** to manage student enrollments efficiently.
+  - Automating my daily workflow with **Bash scripts** and configuring my Linux environment.
+  - Looking for new interesting side projects to build!
 
 - 🌱 **I’m currently learning:**
   - Advanced **C++** (OOP & Memory Management).
   - Database Administration with **Oracle SQL** (Dockerized environments).
   - Deepening my knowledge of the **Symfony** framework.
+
+---
+
+### 🏆 Key Projects
+* **Sentiment Analysis AI** (Python & Django): Scraped social media data (YouTube/Web) to analyze public opinion.
+* **[Vehicle Management System](https://github.com/saadelhadaoui/vehicules-management-in-c)** (C Language): A program to manage vehicle records using complex data structures (Linked Lists/Structs).
+
+---
 
 - 🐧 **My Environment:**
   - I work exclusively on **Linux Mint**.
