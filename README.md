@@ -15,7 +15,7 @@ I'm a 3rd-year Computer Science student at **EMSI Orangers** (Casablanca) with a
 
 ### 🏆 Key Projects
 * **Sentiment Analysis AI** (Python & Django): Scraped social media data (YouTube/Web) to analyze public opinion.
-* **[Vehicle Management System](https://github.com/saadelhadaoui/vehicules-management-in-c)** (C Language): A program to manage vehicle records using complex data structures (Linked Lists/Structs).
+* **[Vehicle Management System](https://github.com/Omux25/vehicle-management-system)** (C Language): A program to manage vehicle records using complex data structures (Linked Lists/Structs).
 
 ---
 
