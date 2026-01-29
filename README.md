@@ -5,10 +5,8 @@
 ### Backend Developer & Cybersecurity Enthusiast
 *Software Engineering Student (3IIRO) at EMSI Orangers*
 
-[![Omux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omux25&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmaneworks@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omux25)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elhjouji)
 
 </div>
 
@@ -16,12 +14,17 @@
 
 ### 👨‍💻 About Me
 
-I'm a 3rd-year student with a deep interest in **secure software architecture** and **DevSecOps**. My work bridges the gap between building robust backends and securing the infrastructure they run on.
+I'm a 3rd-year student with a passion for **Backend Development**, **Linux internals**, and **DevSecOps**. I love building robust tools, automating my environment, and solving logic puzzles in code.
 
 - 🔭 **Working on:**
-  - Sharpening **Cybersecurity skills** via CTFs (Linux forensics & Steganography).
-  - Automating workflows with **Bash**.
-- 🌱 **Learning:** Secure coding practices, **Advanced C++**, and **Docker** pipelines.
+  - Sharpening **Cybersecurity** skills with CTFs and VM labs.
+  - Automating my daily workflow with **Bash scripts**.
+
+- 🌱 **Learning:**
+  - **Cybersecurity**: Linux forensics, steganography, and securing web apps.
+  - **Advanced C++**: Deep diving into OOP concepts and memory management.
+  - **DevSecOps**: Exploring Docker containerization and secure deployment pipelines.
+
 - 🎯 **Goal:** Securing a **Cybersecurity** or **DevSecOps Internship** for Summer 2026.
 
 ---
@@ -56,6 +59,6 @@ I'm a 3rd-year student with a deep interest in **secure software architecture** 
 
 ---
 
-<div align="center">
-  <i>Running on Linux Mint • Testing in VMs • Deploying with Docker</i>
-</div>
+### 💻 My Environment
+* I work mostly on **Linux Mint**, but occasionally use **Windows**.
+* I rely on **Virtual Machines (VMs)** to practice security challenges and isolate my testing environments.
