@@ -3,8 +3,8 @@
 I'm a 3rd-year Software Engineering student at **EMSI Orangers** (Casablanca) with a passion for **Backend Development**, **Linux internals**, and **DevSecOps**. I love building robust tools, automating my environment, and solving logic puzzles.
 
 - 🔭 **I’m currently working on:**
-  - **[Crafted-Symfony](https://github.com/Omux25/Crafted-Symfony)**: A specialized e-commerce platform for artisanal goods built with **Symfony 7** & **Tailwind CSS**.
-  - Automating my daily workflow with **Bash scripts** and configuring my **Linux Mint** environment.
+  - Sharpening my **Cybersecurity** skills with CTFs and VM labs.
+  - Automating my daily workflow with **Bash scripts**.
 
 - 🌱 **I’m currently learning:**
   - **Cybersecurity & CTFs**: Focusing on Linux forensics, steganography, and securing web apps.
@@ -18,7 +18,7 @@ I'm a 3rd-year Software Engineering student at **EMSI Orangers** (Casablanca) wi
 
 ### 🏆 Key Projects
 * **🛒 [Crafted-Symfony](https://github.com/Omux25/Crafted-Symfony)** (Symfony, Tailwind, PostgreSQL)
-  <br>A multi-role marketplace for artisans featuring vendor dashboards and a visual-first customer experience.
+  <br>A specialized e-commerce platform for artisanal goods featuring vendor dashboards and a visual-first customer experience.
 * **📊 [Techstore-Dashboard](https://github.com/Omux25/Techstore-Dashboard)** (PHP, jQuery, Oracle PL/SQL)
   <br>An administrative dashboard for managing tech inventory, handling CRUD operations with a complex Oracle database backend.
 * **🚗 [Vehicle-Management-System](https://github.com/Omux25/Vehicle-Management-System)** (C Language)
@@ -26,12 +26,9 @@ I'm a 3rd-year Software Engineering student at **EMSI Orangers** (Casablanca) wi
 
 ---
 
-- 🐧 **My Environment:**
-  - I work exclusively on **Linux Mint**.
-  - Obsessed with terminal customization (Starship, Nerd Fonts, and custom Bash aliases).
-
-- ⚡ **Fun fact:**
-  - When I'm not coding or breaking my `.bashrc`, I'm probably grinding in **Albion Online**, building factories in **Satisfactory**, or playing **Rocket League**.
+- 💻 **My Environment:**
+  - I work mostly on **Linux Mint**, but occasionally use **Windows**.
+  - I rely on **Virtual Machines (VMs)** to practice security challenges and isolate my testing environments.
 
 ---
 
@@ -45,4 +42,5 @@ I'm a 3rd-year Software Engineering student at **EMSI Orangers** (Casablanca) wi
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
