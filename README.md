@@ -5,7 +5,7 @@
 ### Backend Developer & Cybersecurity Enthusiast
 *Software Engineering Student (3IIRO) at EMSI Orangers*
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmaneworks@gmail.com) &nbsp; [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elhjouji)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmaneworks@gmail.com) &nbsp; [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmaneelhjouji/)
 
 </div>
 
@@ -61,3 +61,13 @@ I'm a 3rd-year student with a passion for **Backend Development**, **Linux inter
 ### 💻 My Environment
 * I work mostly on **Linux Mint**, but occasionally use **Windows**.
 * I rely on **Virtual Machines (VMs)** to practice security challenges and isolate my testing environments.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Omux25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omux25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</div>
+
