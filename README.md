@@ -59,7 +59,7 @@ I'm a 3rd-year student with a passion for **Backend Development**, **Linux inter
 ---
 
 ### 💻 My Environment
-* I work mostly on **Linux Mint**, but occasionally use **Windows**.
+* I work mostly on **Windows**, but occasionally use **Linux Mint**.
 * I rely on **Virtual Machines (VMs)** to practice security challenges and isolate my testing environments.
 
 ---
